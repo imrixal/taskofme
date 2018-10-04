@@ -1,0 +1,4 @@
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Tugas\Tugas 2\DemoTerbilang\TerbilangLibrary\bin\Debug\TerbilangLibrary.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Tugas\Tugas 2\DemoTerbilang\TerbilangLibrary\bin\Debug\TerbilangLibrary.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Tugas\Tugas 2\DemoTerbilang\TerbilangLibrary\obj\Debug\TerbilangLibrary.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Tugas\Tugas 2\DemoTerbilang\TerbilangLibrary\obj\Debug\TerbilangLibrary.pdb

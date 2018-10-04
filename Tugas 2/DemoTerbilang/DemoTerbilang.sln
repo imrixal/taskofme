@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoTerbilangFormsApp", "DemoTerbilangFormsApp\DemoTerbilangFormsApp.csproj", "{A6C0F245-318B-4CCC-B55F-95B764E59EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerbilangLibrary", "TerbilangLibrary\TerbilangLibrary.csproj", "{6D4A315A-D967-4A9F-87A8-14729ED78641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6C0F245-318B-4CCC-B55F-95B764E59EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C0F245-318B-4CCC-B55F-95B764E59EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C0F245-318B-4CCC-B55F-95B764E59EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C0F245-318B-4CCC-B55F-95B764E59EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4A315A-D967-4A9F-87A8-14729ED78641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4A315A-D967-4A9F-87A8-14729ED78641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4A315A-D967-4A9F-87A8-14729ED78641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4A315A-D967-4A9F-87A8-14729ED78641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
